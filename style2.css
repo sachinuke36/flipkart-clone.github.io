@@ -1,0 +1,377 @@
+.slider{
+    /* border: 1px solid black; */
+    background-color:white;
+    width:98%;
+    position: absolute;
+    top:18vh;
+    height:30vh;
+    left:2vh;
+}
+.slider img{
+    position: absolute;
+    width:100%;
+    height: 100%;
+}
+.prev{
+    position: absolute;
+    left:0;
+}
+.move{
+    /* border:1px solid black; */
+   
+    border-radius: 5px; 
+    border-color: white ;
+    height:90px;
+    width:30px;
+    text-align: center;
+    background-color: white;
+}
+.next{
+    position: absolute;
+    right:0;
+}
+.move button{
+    border-radius: 5px; 
+    border-color:white;
+    height:90px;
+    width:30px;
+    text-align: center;
+    background: transparent;
+}
+.slider{
+    overflow: hidden;
+}
+.electronics-slider{
+    position: absolute;
+    top:49vh;
+    height:42vh;
+    background-color: white;
+    width:98vw;
+    left:1vw;
+    overflow: hidden;
+   
+}
+.electronics-slider img{
+   left:10px;
+   border-radius: 9px;
+   height: 186px;
+    width:186px;
+}
+.trimmers{
+    position: absolute;
+    height:30vh;
+    bottom:10px;
+    left:10px;
+    margin:10px;
+}
+
+.description{
+    position: absolute;
+    bottom:3.5vh;
+    left:3vw;
+    color: gray;
+}
+.price{
+    position: absolute;
+    bottom:8px;
+    left:4vw;
+    font-size: 16px;
+    font-weight: bold;
+}
+.printers{
+    position: absolute;
+    width:25vh;
+    height:30vh;
+    bottom:10px;
+    left:14.5vw;
+    margin:10px;
+}
+.monitors{
+    position: relative;
+    width:25vh;
+    height:30vh;
+    left:196px;
+    top:62px;
+    margin:10px;
+    overflow: hidden;
+}
+.monitor{
+    position: relative;
+    width:25vh;
+    height:30vh;
+    left:186px;
+    top:62px;
+    margin:10px;
+    overflow: hidden;
+}
+.BenQ{
+    position: relative;
+    width:25vh;
+    height:30vh;
+    left:22.5vh;
+    top:8vh;
+    margin:1vh;
+}
+.projector{
+    position: relative;
+    width:25vh;
+    height:30vh;
+    left:166px;
+    top:62px;
+    margin:10px;
+}
+.trimmers-w{
+    position: relative;
+    width:25vh;
+    height:30vh;
+    left:166px;
+    top:62px;
+    margin:10px;
+}
+.center-box{
+    position: absolute;
+    top:20vh;
+}
+.movel:hover{
+    cursor: pointer;
+}
+.electronics-slider img:hover{
+    transform: scale(1.2);
+    
+}
+.ess-stu{
+    background-color: white;
+    position:absolute;
+    height:81vh;
+    width:31.6vw;
+    top:92vh;
+    left:1vw;
+   
+}
+.end-of-season-bestseller{
+    background-color: white;
+    position:absolute;
+    height:81vh;
+    width:32vw;
+    top:92vh;
+    left:34vw;
+}
+.add{
+    background-color: white;
+    position:absolute;
+    height:81vh;
+    width:31.6vw;
+    top:92vh;
+    right:1vw;
+}
+.add img{
+    position: absolute;
+    width:100%;
+    height:100%;
+}
+.ess-stu h3{
+    position: absolute;
+    top: 5vh;
+    left:2vh;
+    font-weight: bold;
+}
+.box-ess{
+    position:relative;
+  /* border:1px solid black; */
+    left:12px;
+    margin:10px;
+    top:12vh;
+    height:30vh;
+    width:25vh;
+}
+.box-ess1{
+    position:absolute;
+    /* border:1px solid black; */
+      left:29vh;
+      margin:10px;
+      top:12vh;
+      height:30vh;
+      width:25vh;
+}
+.box-ess2{
+    position:absolute;
+    /* border:1px solid black; */
+      left:29vh;
+      margin:10px;
+      top:43.5vh;
+      height:30vh;
+      width:25vh;
+}
+.end-of-season-bestseller h3{
+    font-weight: bold;
+    position: absolute;
+    top: 5vh;
+    left:2vh;
+}
+.ess-stu img{
+    position: absolute;
+    left:3vh;
+    top:1vw;
+    width:19vh;
+    height:20vh;
+}
+.top-span{
+    position: absolute;
+    bottom: 4vh;
+    left:2vw;
+}
+.bottom-span{
+    position: absolute;
+    bottom: 1.5vh;
+    left:2vw;
+    color: green;
+}
+.box-ess img {
+    position: absolute;
+    left:3vh;
+    top:1vw;
+    width:19vh;
+    height:20vh;
+}
+
+.box-ess1 img {
+    position: absolute;
+    left:3vh;
+    top:1vw;
+    width:19vh;
+    height:20vh;
+}
+
+.box-ess2 img {
+    position: absolute;
+    left:3vh;
+    top:1vw;
+    width:20vh;
+    height:18vh;
+}
+.footer{
+    background-color:rgb(51, 49, 49);
+    position:absolute;
+    color:white;
+    width:100%;
+    height:50vh;
+    top:185vh;
+}
+.about{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:30px;
+    left:50px;
+    height:23vh;
+    width:15vw;
+}
+.help{
+    position:absolute;
+    /* border: 1px solid white;   */
+    top:30px;
+    left:20vw;
+    height:20vh;
+    width:15vw;
+}
+.policy{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:0px;
+    left:17vw;
+    height:23vh;
+    width:10vw;
+}
+.social{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:0px;
+    left:35vw;
+    height:16.5vh;
+    width:10vw;
+}
+.line{
+    width:0px;
+    position:absolute;
+    border: 1px solid gray;
+    top:0px;
+    left:43vw;
+    height:28vh;
+}
+.links{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:50px;
+    left:0px;
+    height:16.5vh;
+    width:15vw;
+}
+footer a{
+    padding: 2px;
+    position: relative;
+    font-size: 14px;
+    display: grid;
+    text-decoration: none;
+    color:white;
+}
+.helps{
+    position:absolute;
+     /* border: 1px solid white;  */
+    top:50px;
+    left:0px;
+    height:16.5vh;
+    width:15vw;
+}
+.policies{
+    position:absolute;
+    /* border: 1px solid white;   */
+    top:50px;
+    left:0px;
+    height:16.5vh;
+    width:10vw;
+}
+.social-handle{
+    position:absolute;
+    /* border: 1px solid white;    */
+    top:50px;
+    left:0px;
+    height:10vh;
+    width:10vw;
+
+}
+div p{
+    font-size: 14px;
+}
+.Mail-us{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:0px;
+    left:45vw;
+    height:30vh;
+    width:15vw;
+}
+.Address{
+    position:absolute;
+    /* border: 1px solid white; */
+    top:0px;
+    left:58vw;
+    height:30vh;
+    width:15vw;
+}
+.Addresses{
+    position:absolute;
+    /* border: 1px solid white;    */
+    top:50px;
+    left:0px;
+    height:10vh;
+    width:10vw;
+
+}
+.h-line{
+    position: absolute;
+    top:35vh;
+    left:-20vw;
+    width:100vw;
+    height: 0px;
+    border: 1px solid gray;
+}
+

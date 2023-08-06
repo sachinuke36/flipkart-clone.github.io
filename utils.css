@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto';font-size: 16px;
+}
+
+.brdr-black{
+    border: 1px solid rgb(201, 199, 199);
+    border-radius: 9px;
+     /* background-color: rgb(23, 169, 198);  */
+}
+.flex{
+    display:flex;
+}
+.flex-align{
+    align-items: center;
+    justify-content: center;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
