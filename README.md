@@ -1,2 +1,2 @@
 # flipkart-clone.github.io
-I have created a flipkart clone using html css and javascript
+I created a Flipkart clone using html CSS and javascript
